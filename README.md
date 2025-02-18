@@ -3,7 +3,7 @@
 📂 **All my work is inside the [`Laura-Portfolio`](./Laura-Portfolio) folder!** Click to explore:
 
 - 📜 **About Me** → My background, career goals, and experience.
-- 🎓 **Coursework** → Academic projects from Data Science & other classes.
+- 🎓 **Courses** → Academic projects from Data Science & other classes.
 - 🔬 **Research** → Work with Dr. Shen & environmental data science.
 - 💻 **Projects** → Data Science and Cybersecurity projects.
 - 🎖 **Certifications** → Coursera courses & Certificates.
