@@ -21,17 +21,17 @@ My primary focus lies in:
 ---
 
 ## **🔧 Skills & Technical Expertise**  
-✔ **Programming & Scripting** – Python, SQL, R (basic)  
+✔ **Programming & Scripting** – Python, SQL, R  
 ✔ **Machine Learning & Data Analytics** – Scikit-Learn, TensorFlow, Pandas  
 ✔ **Cybersecurity Tools & Techniques** – Threat detection, risk assessment, penetration testing  
 ✔ **Cloud Computing & IT Infrastructure** – AWS, Azure, Google Cloud  
 ✔ **Network Security & Solutions Architecture** – Network design, security protocols, enterprise IT solutions  
-✔ **Data Visualization & Reporting** – Tableau, Power BI, Jupyter Notebooks  
+✔ **Data Visualization & Reporting** – Tableau, Power BI, Matplolib, Numpy, Seaborn  
 
 ---
 
 ## **🚀 Career Goals**  
-I am actively seeking **high-paying, OPT-eligible opportunities** in:  
+I am actively seeking **OPT/H1B-eligible opportunities** in:  
 
 - **Data Science & AI Development**  
 - **Cybersecurity & IT Risk Management**  
