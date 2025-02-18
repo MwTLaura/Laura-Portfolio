@@ -45,6 +45,6 @@ My long-term vision includes specializing in **Solutions Architecture, Cybersecu
 
 ## **📌 Connect With Me**  
 📂 **GitHub Portfolio**: [Laura-Portfolio](https://github.com/Laura-Portfolio)  
-💼 **LinkedIn**: [linkedin.com/in/yourprofile](#)  
-📧 **Email**: your.email@example.com  
+💼 **LinkedIn**: [www.linkedin.com/in/laura-tambwe-mwibashiye](#)  
+📧 **Email**: lmwibashiye@gmail.com  
 
