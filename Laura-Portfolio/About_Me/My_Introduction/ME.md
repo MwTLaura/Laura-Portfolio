@@ -43,7 +43,4 @@ My long-term vision includes specializing in **Data Science, Cloud Solutions, an
 
 ---
 
-## **📌 Connect With Me**  
-📂 **GitHub Portfolio**: [Laura-Portfolio](https://github.com/Laura-Portfolio)  
-💼 **LinkedIn**: [linkedin.com/in/yourprofile](#)  
-📧 **Email**: your.email@example.com  
+ 
