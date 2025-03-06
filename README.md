@@ -1,4 +1,4 @@
-# 🌟 Laura Tambwe Mwibashiye | Data Science & Cybersecurity Portfolio
+# 🌟 Laura Tambwe Mwibashiye Portfolio
 
 📂 **All my work is inside the [`Laura-Portfolio`](./Laura-Portfolio) folder!** Click to explore:
 
