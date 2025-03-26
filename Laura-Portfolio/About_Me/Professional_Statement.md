@@ -19,7 +19,7 @@ My professional values are rooted in:
 
 ---
 
-## **Interest in Data Science, Cybersecurity, and IT Solutions**  
+## **Interest in Data Science, BI, and IT Solutions**  
 I am passionate about the intersection of **Data Science, Data Analysis, Machine Learning, Cloud Computing, and Business Intelligence Analytics**, with a focus on:  
 
 - **Data Science & AI Development** – Creating automation tools, predictive models, and AI-driven business solutions.    
