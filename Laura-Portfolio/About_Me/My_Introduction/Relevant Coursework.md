@@ -5,14 +5,14 @@
 ### Data Science Courses:
 
 1. **DATA 3401: Python for Data Science 1** || 🦾Skills gained: **Data Analysis, Data Visualization, Object Oriented Programming** || 
-🔨Tools: **Python with Pandas, Numpy, Seaborn, Matplotlib; Google Collab**
+🔨Tools: **Python with Pandas, Numpy, Seaborn, Matplotlib; Google Colab**
 
 2. **DATA 3402: Python for Data Science 2** || 🦾Skills gained: **Advenced Object Oriented Programming, Machine Learning, Deep Learning** ||
 🔨Tools: **Python with Numpy, Seaborn, Scikit-Learn; GitHub; Jupyter Notebook**
 
 3. **DATA 3421: Data Mining, Management & Curation** || 🦾Skills gained: **Data Preprocessing, Data Understanding, Advanced Data Analysis,
    Regression & Classification Algorithms, Clustering Techniques, Model Evaluation & Performnce** || 🔨Tools: **Python with Pandas, 
-   Scikit-Learn, Numpy, Seaborn, Matplotlib; SQL; Microsoft Excel; Google Collab; GitHub**
+   Scikit-Learn, Numpy, Seaborn, Matplotlib; SQL; Microsoft Excel; Google Colab; GitHub**
    
 4. **DATA 3311: Mathematics for Data Science** ||  🦾Skills gained: **Linear Algebra & Probabilities**
 
