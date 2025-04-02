@@ -12,7 +12,7 @@
 
 3. **DATA 3421: Data Mining, Management & Curation** || 🦾Skills gained: **Data Preprocessing, Data Understanding, Advanced Data Analysis,
    Regression & Classification Algorithms, Clustering Techniques, Model Evaluation & Performnce** || 🔨Tools: **Python with Pandas, 
-   Scikit-Learn, Numpy, Seaborn, Matplotlib; SQL; Microsoft Excel; Google Colab; GitHub**
+   Scikit-Learn, Numpy, Seaborn, Matplotlib, SQL; Microsoft Excel; Google Colab; GitHub, SQLite**
    
 4. **DATA 3311: Mathematics for Data Science** ||  🦾Skills gained: **Linear Algebra & Probabilities**
 
