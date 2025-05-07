@@ -31,7 +31,7 @@ A comprehensive overview of my professional, academic, and technical experience 
 ## 🔹 Eco-Rep  
 **Department:** Office of Sustainability, The University of Texas at Arlington  
 **Location:** Arlington, TX  
-**Dates:** September 2024 – Present  
+**Dates:** September 2024 – May 2025  
 - Engaged in peer-to-peer sustainability education programs aligned with the UN’s 17 Sustainable Development Goals.  
 - Facilitated campus-wide awareness campaigns on environmental stewardship and behavioral change.  
 - Assisted in organizing sustainability events and workshops focused on climate action and waste reduction.
