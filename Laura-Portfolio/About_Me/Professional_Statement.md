@@ -1,40 +1,44 @@
 # 🌟 Professional Statement | Laura Tambwe Mwibashiye  
 
 ## **Strengths & Skills**  
-As a **Data Science major at the University of Texas at Arlington**, I am committed to developing expertise in **Data Science, Data Analysis, Machine Learning, Cloud Computing, and Business Intelligence Analytics**. My core strengths include:  
+As a **Data Science major at the University of Texas at Arlington**, I am committed to developing deep expertise in **Data Science, Product Management, Business Analysis, and Solution Architecture**. My core strengths include:  
 
-✔ **Data Analysis & Business Intelligence** – Strong foundation in data-driven decision-making, predictive modeling, and visualization.  
-✔ **Machine Learning & AI** – Experience with automation, predictive analytics, and AI-driven insights.   
-✔ **Cloud Computing & IT Infrastructure** – Knowledge of AWS, Azure, and Google Cloud for scalable enterprise solutions.  
-✔ **Business Intelligence & Process Optimization** – Utilizing data analytics for strategic business growth and process efficiency.  
-✔ **Problem-Solving & Adaptability** – Ability to analyze complex technical challenges and develop innovative, scalable solutions.  
+✔ **Data Analysis & Business Intelligence** – Strong foundation in data storytelling, KPIs, visualization, and decision-support systems.  
+✔ **Product & Project Management** – Experience managing user research, requirement gathering, backlog grooming, UAT, and cross-functional collaboration.  
+✔ **Business Systems Analysis (BSA) & Solution Design** – Skilled in translating stakeholder needs into clear documentation, flow diagrams, and scalable system solutions.  
+✔ **Process Improvement & Strategic Thinking** – Proven ability to identify gaps, streamline workflows, and drive measurable improvements.  
+✔ **Communication & Cross-Functional Alignment** – Clear communicator with strong stakeholder management across business and technical teams.
 
 ---
 
 ## **Values & Motivation**  
 My professional values are rooted in:  
 
-🔹 **Data-Driven Innovation** – Leveraging analytics and machine learning to drive business intelligence and strategic decision-making.    
-🔹 **Scalability & Performance Optimization** – Designing cloud-based and IT solutions that enhance efficiency and operational resilience.  
+🔹 **User-Centered Innovation** – Creating solutions that solve real problems and deliver tangible value.  
+🔹 **Clarity & Impact** – Aligning technical capabilities with business goals through structured communication and iterative delivery.  
+🔹 **Ownership & Accountability** – Driving outcomes by taking initiative, owning deliverables, and learning from every challenge.
 
 ---
 
-## **Interest in Data Science, BI, and IT Solutions**  
-I am passionate about the intersection of **Data Science, Data Analysis, Machine Learning, Cloud Computing, and Business Intelligence Analytics**, with a focus on:  
+## **Interest in Data-Driven Product & Business Strategy**  
+I am passionate about the intersection of **Data Science, Product Management, Business Analysis, and Enterprise Solution Architecture**, with a focus on:
 
-- **Data Science & AI Development** – Creating automation tools, predictive models, and AI-driven business solutions.    
-- **Cloud Computing & Infrastructure Optimization** – Architecting scalable, secure cloud solutions for businesses and enterprises.  
-- **Business Intelligence & IT Analytics** – Leveraging data insights to optimize business processes, decision-making, and strategic planning.  
-- **Enterprise IT Solutions & Automation** – Developing IT frameworks that streamline operations and improve system efficiency.  
+- **Product & Project Management** – Leading cross-functional initiatives from concept to execution using agile and hybrid approaches.  
+- **Business & Systems Analysis** – Bridging the gap between business needs and technical implementation.  
+- **Data Analytics & BI** – Supporting leadership and operational decisions through insightful dashboards and data pipelines.  
+- **Solution Architecture & Process Mapping** – Designing scalable, efficient systems based on real business requirements and use cases.  
+- **Product Ownership** – Translating strategy into actionable backlog items, prioritizing value, and supporting continuous delivery.
 
 ---
 
 ## **Alignment with Organizational Goals**  
-With my expertise in **Data Science Cloud Computing, IT, and Business Intelligence Analytics**, I can contribute to organizations by:  
+With my hybrid background in **data science, product strategy, and business analysis**, I can help organizations:
 
-- **Enhancing data-driven decision-making** through advanced analytics and AI models.  
-- **Optimizing cloud infrastructure and IT systems** for seamless enterprise operations.   
-- **Designing and executing business intelligence frameworks** for scalable growth and operational efficiency.  
-- **Ensuring regulatory compliance** with security and privacy laws to mitigate risks.  
+- **Deliver user-centered, data-informed solutions** that align with business priorities.  
+- **Improve communication between business and engineering teams** through clear requirements and process documentation.  
+- **Lead UAT, discovery, and validation cycles** to ensure successful solution deployment.  
+- **Develop scalable system architectures** grounded in both user needs and enterprise constraints.  
+- **Drive operational efficiency** by identifying automation and optimization opportunities across teams.
 
-I am actively seeking **internships and career opportunities** where I can apply my skills to **develop secure, data-driven solutions, optimize cloud and IT infrastructure, and build scalable business intelligence frameworks**. My long-term goal is to specialize in **Solutions Architecture, and Data Analytics**, ensuring that organizations remain competitive and secure in the evolving digital landscape.  
+I am actively seeking **internships and full-time opportunities** in **Product Management, Business Analysis, Solutions Architecture, and Project Management**, where I can contribute to building impactful solutions, leading strategic initiatives, and growing as a technical business leader.
+
