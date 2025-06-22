@@ -5,7 +5,7 @@ A comprehensive overview of my professional, academic, and technical experience 
 ---
 
 ## 🔹 Applications Transformation / Product Manager Intern  
-**Company:** Splunk - Cisco Systems
+**Company:** Splunk - Cisco Systems  
 **Location:** Allen, TX  
 **Dates:** May 2025 – August 2025  
 - Mapped current-state user journeys across AppDynamics Professional Services from presale to post-deployment, identifying tools, pain points, and process gaps.  
