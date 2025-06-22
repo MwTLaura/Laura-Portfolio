@@ -1,6 +1,18 @@
 # 💼 Work Experience | Laura Tambwe Mwibashiye
 
-A comprehensive overview of my professional, academic, and technical experience across research, IT support, sustainability, student leadership, engineering assistance, and customer service.
+A comprehensive overview of my professional, academic, and technical experience across internship, research, IT support, sustainability, student leadership, engineering assistance, and customer service.
+
+---
+
+## 🔹 Applications Transformation / Product Manager Intern  
+**Company:** Splunk - Cisco Systems
+**Location:** Allen, TX  
+**Dates:** May 2025 – August 2025  
+- Mapped current-state user journeys across AppDynamics Professional Services from presale to post-deployment, identifying tools, pain points, and process gaps.  
+- Designed and executed a stakeholder-centered user research plan, including interviews and documentation of discovery findings to guide service improvement efforts.  
+- Developed and implemented a detailed User Acceptance Testing (UAT) plan for a July release; coordinated testing, tracked issues, and collaborated with developers and business teams.  
+- Supported post-deployment Run-the-Business (RTB) operations and hyper care, providing insight into stabilization, user feedback, and enhancement prioritization.  
+- Delivered executive-level presentations with strategic recommendations on journey optimization and operational efficiency.
 
 ---
 
@@ -12,7 +24,13 @@ A comprehensive overview of my professional, academic, and technical experience 
 - Improved model accuracy by 15% through effective feature engineering and data cleaning.  
 - Conducted a comprehensive literature review of 10+ peer-reviewed articles on machine learning for environmental and sustainability applications.  
 - Visualized key findings using matplotlib and seaborn to support research publication efforts.  
-- Collaborated with a multidisciplinary research team on designing machine learning pipelines for real-world environmental data.  
+- Collaborated with a multidisciplinary research team on designing machine learning pipelines for real-world environmental data.
+-  Developed a Python-based pipeline to automate extraction of titles, authors, and abstracts from scientific articles using PDF, PubMed, and Google Scholar.  
+- Integrated the ChatGPT API for NLP-based classification of exposures and outcomes in environmental health abstracts.  
+- Designed and tested prompt templates to improve classification accuracy and reproducibility in health-related text extraction.  
+- Built structured comparison tables to evaluate consistency between ChatGPT-extracted results and human annotations.  
+- Preprocessed and analyzed over 10,000 environmental health records to support ML-based risk classification, improving model accuracy by 15%.  
+- Visualized key insights using matplotlib and seaborn; conducted literature reviews to support sustainable health risk modeling. 
 
 ---
 
