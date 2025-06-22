@@ -1,9 +1,9 @@
 # 👩‍💻 About Me | Laura Tambwe Mwibashiye  
 
 ## **Introduction**  
-Hi, I’m Laura Tambwe Mwibashiye, a **Data Science major at the University of Texas at Arlington (UTA)** with a strong passion for **Data Science, Data Analysis, Machine Learning, Cloud Computing, IT, and Business Intelligence Analytics**.  
+Hi, I’m Laura Tambwe Mwibashiye, a **Data Science major at the University of Texas at Arlington (UTA)** with a strong passion for **Data Science, Data Analysis, Machine Learning, Product Management, and Business Intelligence Analytics**.  
 
-I thrive at the intersection of **data analytics, security, and enterprise IT solutions**, combining technical expertise with problem-solving skills to optimize business operations and secure digital infrastructures. My goal is to **develop innovative, data-driven solutions that enhance security, scalability, and efficiency in IT ecosystems**.  
+I thrive at the intersection of **data, product strategy, and cross-functional collaboration**, combining analytical skills with business insight to drive innovation, optimize operations, and improve decision-making across organizations. My goal is to **lead data-informed digital initiatives and deliver scalable, user-centered solutions through strong product, project, and business analysis skills**.  
 
 📂 **For my detailed professional statement, click here:** [Professional Statement](Professional_Statement.md)  
 
@@ -12,20 +12,22 @@ I thrive at the intersection of **data analytics, security, and enterprise IT so
 ## **🎯 Areas of Focus**  
 My expertise spans across:  
 
-- **Data Science & Data Analysis** – Predictive modeling, data-driven decision-making, and business intelligence.  
-- **Machine Learning & AI** – Developing automation tools and AI-driven analytics.    
-- **Cloud Computing & IT Infrastructure** – Architecting scalable cloud environments using AWS, Azure, and Google Cloud.  
-- **Business Intelligence & IT Solutions** – Leveraging data analytics for strategic insights and business process optimization.  
+- **Data Science & Data Analysis** – Predictive modeling, statistical analysis, and exploratory data insights.  
+- **Machine Learning & AI** – Developing intelligent systems and automating business processes.  
+- **Product & Project Management** – Driving solution delivery from discovery to execution with stakeholder alignment.  
+- **Business Intelligence & Strategy** – Leveraging data to support executive decision-making and operational efficiency.  
+- **Business Analysis & Solution Architecture** – Translating user needs into clear requirements and scalable system designs.  
+- **Agile Product Ownership** – Managing backlogs, UAT processes, and iteration planning with development teams.
 
 ---
 
 ## **🔧 Skills & Technical Expertise**  
-✔ **Programming & Scripting** – Python, SQL, R, Java 
-✔ **Machine Learning & Data Analytics** – Scikit-Learn, TensorFlow, Pandas, Seaborn, Numpy, Matplotlib, ArcGIS  
-✔ **Cybersecurity Tools & Techniques** – Threat detection, risk assessment, penetration testing  
-✔ **Cloud Computing & IT Infrastructure** – AWS, Azure, Google Cloud  
-✔ **Business Intelligence & Data Visualization** – Tableau, Power BI, Jupyter Notebooks  
-✔ **IT Solutions & Enterprise Architecture** – IT systems analysis, network security, business automation  
+✔ **Programming & Scripting** – Python, SQL, R, Java  
+✔ **Machine Learning & Data Analytics** – Scikit-Learn, TensorFlow, Pandas, Seaborn, NumPy, Matplotlib, ArcGIS  
+✔ **Product & Project Management Tools** – Jira, Confluence, Trello, Figma, Miro  
+✔ **Business Analysis & Modeling** – User stories, acceptance criteria, use cases, process mapping  
+✔ **Data Visualization & BI** – Tableau, Power BI, Excel, Jupyter Notebooks  
+✔ **Solution Design** – Workflow optimization, stakeholder documentation, scalable architecture planning  
 
 ---
 
@@ -33,12 +35,10 @@ My expertise spans across:
 I am actively seeking **opportunities** in:  
 
 - **Data Science & AI Development**  
-- **Data Analysis & Business Intelligence**    
-- **Cloud Computing & IT Infrastructure**  
-- **Machine Learning & Predictive Analytics**  
+- **Product Management & Business Analysis**  
+- **Project Management & Solution Architecture**  
+- **Business Intelligence & Strategy Consulting**  
 
-My long-term vision includes specializing in **Data Science, Cloud Solutions, and Business Intelligence Analytics**, helping organizations **enhance security, optimize decision-making, and drive data-driven growth**.  
+My long-term vision is to lead **cross-functional data and product initiatives** in fast-paced environments, working closely with both technical and non-technical teams to design intelligent systems, improve business outcomes, and create meaningful user experiences.
 
 ---
-
- 
