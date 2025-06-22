@@ -4,7 +4,6 @@
 
 - 📜 **About Me** → My background, career goals, and experience.
 - 🎓 **Courses** → Academic projects from Data Science & other classes.
-- 🔬 **Research** → Work with Dr. Shen.
 - 💻 **Projects** → Data Science projects.
 - 🎖 **Certifications** → Coursera courses & Certificates.
 - 💼 **Work Experience** → Past jobs & internships.
