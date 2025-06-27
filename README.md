@@ -8,4 +8,4 @@
 - 🎖 **Certifications** → Coursera courses & Certificates.
 - 💼 **Work Experience** → Past jobs & internships.
 
-🔗 **[LinkedIn](www.linkedin.com/in/laura-tambwe-mwibashiye)***
+🔗 **[LinkedIn](www.linkedin.com/in/tmlaura)***
