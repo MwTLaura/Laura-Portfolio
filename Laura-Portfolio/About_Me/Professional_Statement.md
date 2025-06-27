@@ -40,5 +40,5 @@ With my hybrid background in **data science, product strategy, and business anal
 - **Develop scalable system architectures** grounded in both user needs and enterprise constraints.  
 - **Drive operational efficiency** by identifying automation and optimization opportunities across teams.
 
-I am actively seeking **internships and full-time opportunities** in **Product Management, Business Analysis, Solutions Architecture, and Project Management**, where I can contribute to building impactful solutions, leading strategic initiatives, and growing as a technical business leader.
+I am actively seeking **internships and full-time opportunities** in **Product Management, Business Analysis, Solutions Architecture, Solutions Engineering, Digital Transformation and Project Management**, where I can contribute to building impactful solutions, leading strategic initiatives, and growing as a technical business leader.
 
