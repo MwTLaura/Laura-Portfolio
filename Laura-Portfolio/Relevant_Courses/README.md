@@ -5,16 +5,19 @@
 ### Data Science Courses:
 
 1. **DATA 3401: Python for Data Science 1** || 🦾Skills gained: **Data Analysis, Data Visualization, Object Oriented Programming** || 
-🔨Tools: **Python with Pandas, Numpy, Seaborn, Matplotlib; Google Colab**
+🔨Tools: **Python, Pandas, Numpy, Seaborn, Matplotlib; Google Colab**
 
 2. **DATA 3402: Python for Data Science 2** || 🦾Skills gained: **Advenced Object Oriented Programming, Machine Learning, Deep Learning** ||
-🔨Tools: **Python with Numpy, Seaborn, Scikit-Learn; GitHub; Jupyter Notebook**
+🔨Tools: **Python, Numpy, Seaborn, Scikit-Learn; GitHub; Jupyter Notebook**
 
 3. **DATA 3421: Data Mining, Management & Curation** || 🦾Skills gained: **Data Preprocessing, Data Understanding, Advanced Data Analysis,
-   Regression & Classification Algorithms, Clustering Techniques, Model Evaluation & Performnce** || 🔨Tools: **Python with Pandas, 
+   Regression & Classification Algorithms, Clustering Techniques, Model Evaluation & Performnce** || 🔨Tools: **Python, Pandas, 
    Scikit-Learn, Numpy, Seaborn, Matplotlib, SQL; Microsoft Excel; Google Colab; GitHub, SQLite**
    
 4. **DATA 3311: Mathematics for Data Science** ||  🦾Skills gained: **Linear Algebra & Probabilities**
+
+5.  **DATA 4380: Data Problems** ||  🦾Skills gained: **Machine Learning, Project Management, Time Management, ML Deployment, LLM, Bash** || 
+🔨Tools: **PyTorch, Scikit-Image, Keras, API, GitHub, Jupyter Notebook**
 
 --- 
 
@@ -24,7 +27,7 @@
 🔨Tools: **Microsoft Excel, R with ggplot**
 
 2. **ENVR 4458: Machine Learning for Geoscientists** || 🦾Skills gained: **Data Wrangling, Unsuperised Learning, Supervised Learning,
-   KNN & SVM Recitation, Tree-based model Recitation, Neural Network** || 🔨Tools: **Python with Numpy, Pandas, Matplotlib, Scikit-Learn;
+   KNN & SVM Recitation, Tree-based model Recitation, Neural Network** || 🔨Tools: **Python, Numpy, Pandas, Matplotlib, Scikit-Learn;
    Jupyter Notebook**
 
 3. **ENVR 4330: Understanding Geographic Information Systems** || 🦾Skills gained: **Georeferencing, Satellite images, Projection, Raster Clip,      Mosaic, Hillshade, DEM data, Topography Tools, Hydrology, Raster Calculation & Reclassification, Layout, Creating a Map** ||
