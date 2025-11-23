@@ -1,4 +1,4 @@
-## **Relevant Courseworks during my time at UTA as a Data Science major with a concentration in Environmental Science 👩🏾‍🎓**
+## **Relevant Courses during my time at UTA as a Data Science major with a concentration in Environmental Science 👩🏾‍🎓**
 
 ---
 
